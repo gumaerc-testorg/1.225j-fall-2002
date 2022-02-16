@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-225j-transportation-flow-systems-fall-2002/f962048f8ca8fe3e0f612962237109b0_lec4networks2.pdf
+file: /media/courses/1-225j-transportation-flow-systems-fall-2002/f962048f8ca8fe3e0f612962237109b0_lec4networks2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec4networks2.pdf
 uid: f962048f-8ca8-fe3e-0f61-2962237109b0

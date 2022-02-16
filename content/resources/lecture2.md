@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-225j-transportation-flow-systems-fall-2002/83e169c74717fa79f21854b3acce59ed_lecture2.pdf
+file: /media/courses/1-225j-transportation-flow-systems-fall-2002/83e169c74717fa79f21854b3acce59ed_lecture2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture2.pdf
 uid: 83e169c7-4717-fa79-f218-54b3acce59ed

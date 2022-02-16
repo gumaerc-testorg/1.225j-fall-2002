@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-225j-transportation-flow-systems-fall-2002/a1e4a4868f4046f54858952b659f8226_add_prob.pdf
+file: /media/courses/1-225j-transportation-flow-systems-fall-2002/a1e4a4868f4046f54858952b659f8226_add_prob.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: add_prob.pdf
 uid: a1e4a486-8f40-46f5-4858-952b659f8226

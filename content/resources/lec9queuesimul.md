@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture 9.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-225j-transportation-flow-systems-fall-2002/8847e346847955563fc9d4cc6e09a3e8_lec9QueueSimul.xls
+file: /media/courses/1-225j-transportation-flow-systems-fall-2002/8847e346847955563fc9d4cc6e09a3e8_lec9QueueSimul.xls
 file_type: application/msword
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Other
 title: lec9QueueSimul.xls
 uid: 8847e346-8479-5556-3fc9-d4cc6e09a3e8

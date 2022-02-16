@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-225j-transportation-flow-systems-fall-2002/97d41d5ae991528adf3c7cdd0b48e096_lecture51a.pdf
+file: /media/courses/1-225j-transportation-flow-systems-fall-2002/97d41d5ae991528adf3c7cdd0b48e096_lecture51a.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture51a.pdf
 uid: 97d41d5a-e991-528a-df3c-7cdd0b48e096

@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: '''Lambda'' character.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-225j-transportation-flow-systems-fall-2002/27d54eba8dde7329264dfc41917468d3_image021.jpg
+file: /media/courses/1-225j-transportation-flow-systems-fall-2002/27d54eba8dde7329264dfc41917468d3_image021.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Exams
+ocw_type: OCWImage
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Image
 title: image021.jpg
 uid: 27d54eba-8dde-7329-264d-fc41917468d3

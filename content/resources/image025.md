@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: Mathematical expression.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-225j-transportation-flow-systems-fall-2002/96d16dbd1fc90d76a82115b2c96c83db_image025.jpg
+file: /media/courses/1-225j-transportation-flow-systems-fall-2002/96d16dbd1fc90d76a82115b2c96c83db_image025.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Exams
+ocw_type: OCWImage
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Image
 title: image025.jpg
 uid: 96d16dbd-1fc9-0d76-a821-15b2c96c83db
