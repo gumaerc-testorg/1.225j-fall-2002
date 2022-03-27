@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b2cc19d5-bc0f-1a38-bfdd-087bf813393a
 resourcetype: Document
 title: lecture1cumdiag.pdf
 uid: 3e5168a9-6a0a-310b-9a36-c185ce146099

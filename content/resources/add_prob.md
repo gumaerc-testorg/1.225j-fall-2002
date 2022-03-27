@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 3f557d8b-1f24-8ce6-ec16-bb7bd7c7dc30
 resourcetype: Document
 title: add_prob.pdf
 uid: a1e4a486-8f40-46f5-4858-952b659f8226

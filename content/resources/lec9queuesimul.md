@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b2cc19d5-bc0f-1a38-bfdd-087bf813393a
 resourcetype: Other
 title: lec9QueueSimul.xls
 uid: 8847e346-8479-5556-3fc9-d4cc6e09a3e8

@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 3f557d8b-1f24-8ce6-ec16-bb7bd7c7dc30
 resourcetype: Image
 title: image021.jpg
 uid: 27d54eba-8dde-7329-264d-fc41917468d3
