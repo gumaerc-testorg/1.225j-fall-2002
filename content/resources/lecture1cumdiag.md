@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-225j-transportation-flow-systems-fall-2002/3e5168a96a0a310b9a36c185ce146099_lecture1cumdiag.pdf
+file: /courses/1-225j-transportation-flow-systems-fall-2002/3e5168a96a0a310b9a36c185ce146099_lecture1cumdiag.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

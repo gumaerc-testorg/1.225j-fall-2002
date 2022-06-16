@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-225j-transportation-flow-systems-fall-2002/ab5d61f67a620af54800ff3a2d7c9c4c_image007.jpg
+file: /courses/1-225j-transportation-flow-systems-fall-2002/ab5d61f67a620af54800ff3a2d7c9c4c_image007.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

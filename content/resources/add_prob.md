@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-225j-transportation-flow-systems-fall-2002/a1e4a4868f4046f54858952b659f8226_add_prob.pdf
+file: /courses/1-225j-transportation-flow-systems-fall-2002/a1e4a4868f4046f54858952b659f8226_add_prob.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
