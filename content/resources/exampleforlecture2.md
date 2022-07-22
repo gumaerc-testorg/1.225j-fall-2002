@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: Excel spreadsheet to support lecture on Modeling Air Traffic Flows.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-225j-transportation-flow-systems-fall-2002/d1948de5c11156ff7acf935f25830e9b_exampleforlecture2.xls
+file: /courses/1-225j-transportation-flow-systems-fall-2002/d1948de5c11156ff7acf935f25830e9b_exampleforlecture2.xls
 file_type: application/msword
+learning_resource_types:
+- Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
+parent_uid: b2cc19d5-bc0f-1a38-bfdd-087bf813393a
 resourcetype: Other
 title: exampleforlecture2.xls
 uid: d1948de5-c111-56ff-7acf-935f25830e9b
 ---
+Excel spreadsheet to support lecture on Modeling Air Traffic Flows.
