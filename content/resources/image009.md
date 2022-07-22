@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: image009.jpg
 uid: 12989031-1bb5-b1d9-d40f-6286e8625362
 ---
 Mathematical formula.
-

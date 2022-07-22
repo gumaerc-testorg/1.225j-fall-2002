@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: image021.jpg
 uid: 27d54eba-8dde-7329-264d-fc41917468d3
 ---
 'Lambda' character.
-

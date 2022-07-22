@@ -5,6 +5,7 @@ file: /courses/1-225j-transportation-flow-systems-fall-2002/85af88dc55cf06644117
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: data.xls
 uid: 85af88dc-55cf-0664-4117-b671067f4879
 ---
 Supporting file for lecture 3.
-

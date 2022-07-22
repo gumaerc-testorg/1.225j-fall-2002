@@ -5,6 +5,7 @@ file: /courses/1-225j-transportation-flow-systems-fall-2002/d2026ee2e23766bc7eef
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: introduction.pdf
 uid: d2026ee2-e237-66bc-7eef-945e38f609cd
 ---
 This file includes introductory notes for the course.
-
