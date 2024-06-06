@@ -2,6 +2,7 @@
 content_type: resource
 description: Mathematical expression.
 file: /courses/1-225j-transportation-flow-systems-fall-2002/96d16dbd1fc90d76a82115b2c96c83db_image025.jpg
+file_size: 989
 file_type: image/jpeg
 image_metadata:
   caption: ''

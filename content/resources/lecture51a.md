@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-225j-transportation-flow-systems-fall-2002/97d41d5ae991528adf3c7cdd0b48e096_lecture51a.pdf
+file_size: 92955
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

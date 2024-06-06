@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for lecture 8.
 file: /courses/1-225j-transportation-flow-systems-fall-2002/4ac34cfa669b32821961b581c1e78145_lec8_example.pdf
+file_size: 45438
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Mathematical formula.
 file: /courses/1-225j-transportation-flow-systems-fall-2002/55a931e84da3bc67eb4145ac7b46793d_image016.jpg
+file_size: 4195
 file_type: image/jpeg
 image_metadata:
   caption: ''
