@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '''Lambda'' character.'
-file: /courses/1-225j-transportation-flow-systems-fall-2002/27d54eba8dde7329264dfc41917468d3_image021.jpg
+file: /ol-ocw-studio-app/courses/1-225j-transportation-flow-systems-fall-2002/27d54eba8dde7329264dfc41917468d3_image021.jpg
 file_size: 590
 file_type: image/jpeg
 image_metadata:
