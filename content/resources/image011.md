@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '''Alpha'' character'
-file: /courses/1-225j-transportation-flow-systems-fall-2002/45832667710491287530a9bab4063eba_image011.jpg
+file: /ol-ocw-studio-app/courses/1-225j-transportation-flow-systems-fall-2002/45832667710491287530a9bab4063eba_image011.jpg
 file_size: 579
 file_type: image/jpeg
 image_metadata:
