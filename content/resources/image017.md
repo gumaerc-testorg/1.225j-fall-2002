@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mathematical formula.
-file: /ol-ocw-studio-app/courses/1-225j-transportation-flow-systems-fall-2002/60e198eceff2a0e11659f95beb36b386_image017.jpg
+file: /courses/1-225j-transportation-flow-systems-fall-2002/60e198eceff2a0e11659f95beb36b386_image017.jpg
 file_size: 3670
 file_type: image/jpeg
 image_metadata:
