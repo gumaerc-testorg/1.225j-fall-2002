@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture 9.
-file: /ol-ocw-studio-app/courses/1-225j-transportation-flow-systems-fall-2002/8847e346847955563fc9d4cc6e09a3e8_lec9QueueSimul.xls
+file: /courses/1-225j-transportation-flow-systems-fall-2002/8847e346847955563fc9d4cc6e09a3e8_lec9QueueSimul.xls
 file_size: 249856
 file_type: application/msword
 learning_resource_types:
