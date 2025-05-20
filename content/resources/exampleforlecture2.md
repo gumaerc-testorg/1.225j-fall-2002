@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Excel spreadsheet to support lecture on Modeling Air Traffic Flows.
-file: /ol-ocw-studio-app/courses/1-225j-transportation-flow-systems-fall-2002/d1948de5c11156ff7acf935f25830e9b_exampleforlecture2.xls
+file: /courses/1-225j-transportation-flow-systems-fall-2002/d1948de5c11156ff7acf935f25830e9b_exampleforlecture2.xls
 file_size: 17920
 file_type: application/msword
 learning_resource_types:
