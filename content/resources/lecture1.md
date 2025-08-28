@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-225j-transportation-flow-systems-fall-2002/219cb100f45c384538f605688ebc13e4_lecture1.pdf
+file: /ol-ocw-studio-app/courses/1-225j-transportation-flow-systems-fall-2002/219cb100f45c384538f605688ebc13e4_lecture1.pdf
 file_size: 72983
 file_type: application/pdf
 learning_resource_types:
